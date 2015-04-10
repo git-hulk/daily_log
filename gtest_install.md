@@ -1,6 +1,6 @@
 ## gtest 编译安装
 
-下面内容来自 (stackflow)[http://stackoverflow.com/questions/13513905/how-to-properly-setup-googletest-on-linux], 这里记录只为了防止重复查找。
+下面内容来自 [stackflow](http://stackoverflow.com/questions/13513905/how-to-properly-setup-googletest-on-linux), 这里记录只为了防止重复查找。
 
 ### 编译
 ```shell
